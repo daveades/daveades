@@ -1,16 +1,15 @@
 ## Hi there 👋, I'm David!
 
-🔧 **Embedded Systems Engineer**
+🔧 **Embedded Systems Engineer** </br>
 💻 **Software Tester**
-💼 Passionate **Software Engineer** | Electronics & Hardware Enthusiast | **IoT Developer**
 
 ### About Me
 
-I'm a tech enthusiast with a strong passion for both **hardware** and **software**. Currently, I'm an Embedded Systems Intern at Nithub, where I work closely with **PCBs (Printed Circuit Boards)**, focusing on designing and implementing circuits for various applications, including embedded systems and IoT projects. I also work as a Software Tester at Daijobu, a web3 company, where I ensure the quality and functionality of cutting-edge blockchain solutions.
+I'm a tech enthusiast with a strong passion for both **hardware** and **software**. Currently, I'm an Embedded Systems Intern at Nithub, where I work closely with **Development Boards** and **PCBs (Printed Circuit Boards)**, focusing on designing and implementing circuits for various applications, including embedded systems and IoT projects. I also work as a Software Tester at Daijobu, a web3 company, where I ensure the quality and functionality of cutting-edge blockchain solutions.
 
 ### Tech Stack
 
-- **Programming Languages**: Python, C, JavaScript, HTML, CSS
+- **Programming Languages**: Python, C, C++,
 - **Hardware**: PCBs, Development Boards, Embedded Systems, IoT Devices
 - **Other Skills**: Software Testing, Automation, Web3 Technologies
 
@@ -27,6 +26,6 @@ I'm constantly seeking new challenges to expand my knowledge and skills. Whether
 
 ### Let's Connect!
 
-- **LinkedIn**: [Deeyv](https://www.linkedin.com/in/deeyv/)
-- **Twitter**: [David Adesanya](https://x.com/daveadesX)
-- **Email**: [Email](mailto:jesugbohunmi23@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/deeyv/)
+- [Twitter](https://x.com/daveadesX)
+- [Email](mailto:jesugbohunmi23@gmail.com)
