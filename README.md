@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋, I'm David!
 
-<!--
-**davehypercodes/davehypercodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Embedded Systems Engineer**
+💻 **Software Tester**
+💼 Passionate **Software Engineer** | Electronics & Hardware Enthusiast | **IoT Developer**
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a tech enthusiast with a strong passion for both **hardware** and **software**. Currently, I'm an Embedded Systems Intern at Nithub, where I work closely with **PCBs (Printed Circuit Boards)**, focusing on designing and implementing circuits for various applications, including embedded systems and IoT projects. I also work as a Software Tester at Daijobu, a web3 company, where I ensure the quality and functionality of cutting-edge blockchain solutions.
+
+### Tech Stack
+
+- **Programming Languages**: Python, C, JavaScript, HTML, CSS
+- **Hardware**: PCBs, Development Boards, Embedded Systems, IoT Devices
+- **Other Skills**: Software Testing, Automation, Web3 Technologies
+
+### Learning & Growth
+
+I'm constantly seeking new challenges to expand my knowledge and skills. Whether it's diving into a new programming language, exploring the latest in web3 technologies, or tinkering with IoT devices, I'm always eager to learn.
+
+### I'm Looking to Collaborate On...
+
+- **IoT Projects**: Exploring innovative applications and solutions using IoT technologies.
+- **Embedded Systems**: Developing and improving embedded systems and hardware interfaces.
+- **Software Testing**: Ensuring the quality and performance of software systems through rigorous testing.
+- **Web3 Technologies**: Contributing to projects in the blockchain and decentralized technology space.
+
+### Let's Connect!
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/deeyv/)
+- **Twitter**: [Your Twitter Handle](https://x.com/daveadesX)
+- **Email**: [Your Email](mailto:jesugbohunmi23@gmail.com)
