@@ -22,11 +22,11 @@ I'm constantly seeking new challenges to expand my knowledge and skills. Whether
 
 - **IoT Projects**: Exploring innovative applications and solutions using IoT technologies.
 - **Embedded Systems**: Developing and improving embedded systems and hardware interfaces.
-- **Software Testing**: Ensuring the quality and performance of software systems through rigorous testing.
+- **Software Testing**: Ensuring the quality and performance of software systems through testing.
 - **Web3 Technologies**: Contributing to projects in the blockchain and decentralized technology space.
 
 ### Let's Connect!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/deeyv/)
-- **Twitter**: [Your Twitter Handle](https://x.com/daveadesX)
-- **Email**: [Your Email](mailto:jesugbohunmi23@gmail.com)
+- **LinkedIn**: [Deeyv](https://www.linkedin.com/in/deeyv/)
+- **Twitter**: [David Adesanya](https://x.com/daveadesX)
+- **Email**: [Email](mailto:jesugbohunmi23@gmail.com)
