@@ -9,7 +9,7 @@ I'm a tech enthusiast with a strong passion for both **hardware** and **software
 
 ### Tech Stack
 
-- **Programming Languages**: Python, C, C++,
+- **Programming Languages**: Python, C, C++
 - **Hardware**: PCBs, Development Boards, Embedded Systems, IoT Devices
 - **Other Skills**: Software Testing, Automation, Web3 Technologies
 
