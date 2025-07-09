@@ -1,31 +1,42 @@
-## Hi there 👋, I'm David!
+# 👋 Hi, I'm Dave!
 
-🔧 **Embedded Systems Engineer** </br>
-💻 **Software Tester**
+Welcome to my GitHub profile! I'm a passionate developer who enjoys building web applications, analyzing data, and creating solutions that make an impact. My projects span web development, data analysis, and creative problem-solving using a variety of languages and frameworks.
 
-### About Me
+## 🛠️ Tech Stack
 
-I'm a tech enthusiast with a strong passion for both **hardware** and **software**. Currently, I'm an Embedded Systems Intern at Nithub, where I work closely with **Development Boards** and **PCBs (Printed Circuit Boards)**, focusing on designing and implementing circuits for various applications, including embedded systems and IoT projects. I also work as a Software Tester at Daijobu, a web3 company, where I ensure the quality and functionality of cutting-edge blockchain solutions.
+- **Languages:** JavaScript, TypeScript, Python, HTML, CSS, Shell
+- **Frameworks & Tools:** React, Node.js, Flask, Django, Git, Bash
+- **Other Skills:** Full-stack development, API integration, UI/UX design, Data Visualization
 
-### Tech Stack
+## 🚀 Featured Projects
 
-- **Programming Languages**: Python, C, C++
-- **Hardware**: PCBs, Development Boards, Embedded Systems, IoT Devices
-- **Other Skills**: Software Testing, Automation, Web3 Technologies
+### [Secure-Share](https://github.com/daveades/secure-share)
+A cross-language (JavaScript & Python) project focused on secure file sharing. Built with a strong focus on privacy, encryption, and modern web technologies.
 
-### Learning & Growth
+### [Rhombus](https://github.com/daveades/rhombus)
+A visually engaging web project combining HTML, CSS, and JavaScript to deliver interactive and dynamic user experiences.
 
-I'm constantly seeking new challenges to expand my knowledge and skills. Whether it's diving into a new programming language, exploring the latest in web3 technologies, or tinkering with IoT devices, I'm always eager to learn.
+### [BookPadi](https://github.com/daveades/BookPadi)
+A TypeScript-powered application for book lovers, featuring a modern interface, robust backend, and seamless user experience.
 
-### I'm Looking to Collaborate On...
+### [Rabbit Population Analysis](https://github.com/daveades/Rabbit-Population-Analysis)
+A data-driven website that visualizes global rabbit population data (sample data), leveraging Python, JavaScript, and contemporary visualization techniques.
 
-- **IoT Projects**: Exploring innovative applications and solutions using IoT technologies.
-- **Embedded Systems**: Developing and improving embedded systems and hardware interfaces.
-- **Software Testing**: Ensuring the quality and performance of software systems through testing.
-- **Web3 Technologies**: Contributing to projects in the blockchain and decentralized technology space.
+## 📈 GitHub Stats
 
-### Let's Connect!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daveades&show_icons=true&theme=default" alt="daveades's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveades&layout=compact" alt="Top Languages" />
+</p>
 
-- [Linkedin](https://www.linkedin.com/in/deeyv/)
-- [Twitter](https://x.com/daveadesX)
-- [Email](mailto:jesugbohunmi23@gmail.com)
+## 🌱 About Me
+
+- 🔭 I’m currently working on full-stack web projects and data analysis tools.
+- 🌱 Always learning new technologies and best practices.
+- 🤝 Open to collaboration on interesting, impactful projects.
+- 💬 Ask me about JavaScript, Python, or anything tech!
+
+## 📬 Get In Touch
+
+- GitHub: [github.com/daveades](https://github.com/daveades)
+- X: [x.com](x.com/daveades)
