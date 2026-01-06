@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dave! 
 
-Welcome to my GitHub profile! I'm a passionate developer who enjoys building web applications, analyzing data, and creating solutions that make an impact. My projects span web development, data analysis, and creative coding.
+Welcome to my GitHub profile! I'm a passionate developer who enjoys solving problems by building web applications, analyzing data, and creating solutions that make impact.
 
 ## 🛠️ Tech Stack
 
@@ -19,12 +19,6 @@ A TypeScript-powered application for book lovers, featuring a modern interface, 
 ### [Rabbit Population Analysis](https://github.com/daveades/Rabbit-Population-Analysis)
 A data-driven website that visualizes global rabbit population data (sample data), leveraging Python, JavaScript, and contemporary visualization techniques.
 
-## 📈 GitHub Stats
-
-![daveades's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveades&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daveades&layout=compact&theme=radical&hide_border=true)
-
 ## 🌱 About Me
 
 - 🔭 I'm currently working on full-stack web projects and data analysis tools.
@@ -35,4 +29,4 @@ A data-driven website that visualizes global rabbit population data (sample data
 ## 📬 Get In Touch
 
 - GitHub:  [github.com/daveades](https://github.com/daveades)
-- X: [x.com](x.com/daveades)
+- X: [x.com](x.com/dave0x19)
