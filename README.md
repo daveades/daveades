@@ -13,9 +13,6 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building web
 ### [Secure-Share](https://github.com/daveades/secure-share)
 A cross-language (JavaScript & Python) project focused on secure file sharing. Built with a strong focus on privacy, encryption, and modern web technologies.
 
-### [Rhombus](https://github.com/daveades/rhombus)
-A visually engaging web project combining HTML, CSS, and JavaScript to deliver interactive and dynamic user experiences.
-
 ### [BookPadi](https://github.com/daveades/BookPadi)
 A TypeScript-powered application for book lovers, featuring a modern interface, robust backend, and seamless user experience.
 
