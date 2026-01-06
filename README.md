@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dave! 
 
-Welcome to my GitHub profile! I'm a passionate developer who enjoys building web applications, analyzing data, and creating solutions that make an impact. My projects span web development, data analysis, and creative problem-solving.
+Welcome to my GitHub profile! I'm a passionate developer who enjoys building web applications, analyzing data, and creating solutions that make an impact. My projects span web development, data analysis, and creative coding.
 
 ## 🛠️ Tech Stack
 
@@ -21,10 +21,9 @@ A data-driven website that visualizes global rabbit population data (sample data
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daveades&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="daveades's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveades&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+![daveades's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveades&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daveades&layout=compact&theme=radical&hide_border=true)
 
 ## 🌱 About Me
 
